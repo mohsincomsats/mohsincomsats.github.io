@@ -135,6 +135,7 @@
       <created>1533130749321</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1533130749321</updated>
       <workItem from="1533130750935" duration="2242000" />
     </task>
@@ -142,6 +143,31 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="2242000" />
+=======
+      <updated>1532270841834</updated>
+      <workItem from="1532270851845" duration="904000" />
+      <workItem from="1532300335932" duration="1599000" />
+    </task>
+    <task id="LOCAL-00001" summary="modify">
+      <created>1532301924260</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532301924260</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modify">
+      <created>1532301931271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532301931271</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2503000" />
+>>>>>>> parent of 34b9a00... through git
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
